@@ -4,3 +4,5 @@ A Comparative Analysis of Traditional and Custom Hyperparameter Tuning Technique
 This project explores the impact of hyperparameter tuning on deep learning models for time series forecasting.  
 It compares **traditional methods** (Grid Search, Random Search) with **custom optimization techniques** (Bayesian Optimization via KerasTuner and Optuna’s TPE with pruning).  
 The results show that advanced, adaptive tuning strategies significantly improve both model accuracy and training efficiency compared to traditional exhaustive searches.
+
+dataset , https://archive.ics.uci.edu/dataset/321/electricityloaddiagrams20112014
